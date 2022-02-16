@@ -1,1 +1,1 @@
-This is a sentence for a temporary test file.
+This is a temporary file for practice.
